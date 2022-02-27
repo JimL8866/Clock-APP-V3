@@ -1,0 +1,19 @@
+{
+  "type": "module",
+  "name": "clock-app-v3",
+  "version": "1.0.0",
+  "description": "this a clock app using express.js web",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "clock",
+    "app"
+  ],
+  "author": "J L",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
